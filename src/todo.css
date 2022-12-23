@@ -1,0 +1,17 @@
+.listdiv{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0;
+    border: 1px  solid #c89666;padding: 5px;
+}
+.listdiv >i{
+    font-size: 25px;
+    color: crimson;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.listdiv >li{
+    font-size: 25px;
+    margin-left: 10px;
+}
